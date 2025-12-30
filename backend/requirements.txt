@@ -1,0 +1,5 @@
+Django==5.0
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+mysqlclient
+PyJWT==2.8.0
